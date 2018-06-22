@@ -4,7 +4,7 @@ Built a compiler that translates Pascal-like source code ("Rat16 Language") into
 <br />
 <br />
 ## Instructions
-<br />
+
 1. Have a Rat16 source code file available to feed into the compiler (see one of the “InputFile” examples in this repo).
 <br />
 2. The user should know the filepath for the input file on their computer, and enter it when prompted (i.e. Documents\InputTest1.txt).
