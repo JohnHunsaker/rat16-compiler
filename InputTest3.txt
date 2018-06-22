@@ -1,0 +1,15 @@
+//InputTest3
+
+$$
+
+$$
+
+integer low, high, step;
+
+read(low,high,step);
+while(low<high)
+{	print(low);
+	low:=low+step;
+}
+
+$$
